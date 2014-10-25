@@ -45,10 +45,6 @@ trait ValueTrait
      */
     public function set($key, $value)
     {
-        if (is_bool($value)) {
-            $value = serialize($value);
-        }
-
         $setResult = $this->getClient()->set($key, $value);
         if ($setResult === false) {
             throw new \Exception('Failed to set value on key ' . $key . '.');
