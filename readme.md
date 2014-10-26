@@ -1,6 +1,10 @@
 # Key Value Memcache Store
 
 [![Author](http://img.shields.io/badge/author-@tikaszvince-blue.svg?style=flat)](https://twitter.com/tikaszvince)
+[![Build Status](https://img.shields.io/travis/tikaszvince/key-value-store-memcache/master.svg?style=flat)](https://travis-ci.org/tikaszvince/key-value-store-memcache)
+[![Coverage Status](https://img.shields.io/coveralls/tikaszvince/key-value-store-memcache.svg?style=flat)](https://coveralls.io/r/tikaszvince/key-value-store-memcache)
+[![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![Packagist Version](https://img.shields.io/packagist/v/tikaszvince/key-value-store-memcache.svg?style=flat)](https://packagist.org/packages/tikaszvince/key-value-store-memcache)
 
 # Description
 
