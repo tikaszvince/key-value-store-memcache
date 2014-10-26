@@ -1,6 +1,6 @@
 {
     "name": "adammbalogh/key-value-store-memcache",
-    "description": "Key-value memcache store through the memcache extension.",
+    "description": "Key-value memcache store through memcache extension.",
     "keywords": ["key", "value", "key-value", "store", "nosql", "memcache", "memcached", "key-value-memcache"],
     "license": "MIT",
     "type": "library",

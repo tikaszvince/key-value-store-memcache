@@ -14,7 +14,7 @@ trait ServerTrait
     public function flush()
     {
         if (!$this->getClient()->flush()) {
-            throw new \Exception('Cannot flush Memcace!');
+            throw new \Exception('Cannot flush Memcache!');
         }
     }
 }
